@@ -20,7 +20,7 @@ function App() {
                   <BarCharts />
                 </CardContent>
               </Card>
-            </div>
+            </div> 
           </Grid >
           {/* line chart box  */}
           <Grid item md={6} sm={12}>
