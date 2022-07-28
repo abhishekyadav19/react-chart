@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "assets":"Samsung",
+        "price":"54000"
+    },
+    {
+        "id":2,
+        "assets":"HP",
+        "price":"45000"
+    },
+    {
+        "id":3,
+        "assets":"Acer",
+        "price":"12300"
+    },
+    {
+        "id":4,
+        "assets":"LG",
+        "price":"35000"
+    },
+    {
+        "id":5,
+        "assets":"Lenovo",
+        "price":"75000"
+    },
+    {
+        "id":6,
+        "assets":"MI",
+        "price":"86400"
+    }
+]
